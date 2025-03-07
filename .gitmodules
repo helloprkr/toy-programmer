@@ -1,0 +1,3 @@
+[submodule ".ai"]
+	path = .ai
+	url = ./.ai
