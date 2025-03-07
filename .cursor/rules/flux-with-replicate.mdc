@@ -62,7 +62,7 @@ output_format: "webp",
 output_quality: 80
 };
 
-const output = await http://replicate.run("black-forest-labs/flux-schnell", { input });
+const output = await replicate.run("black-forest-labs/flux-schnell", { input });
 return output;
 }
 ```
@@ -76,4 +76,4 @@ This file should go in `/app/flux/page.tsx`.
 - Have a nice ui for when the image is blank or loading
 - Display the image that is returned
 - Have a button to generate a new image
-- Have a button to download the image
+- Have a button to download the image 
