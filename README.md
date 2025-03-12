@@ -151,6 +151,9 @@ toy-programmer/
 ```
 
 ## 🧩 AI Development Tools
+The `.ai` directory is powered by [dotai](https://github.com/helloprkr/dotai_boiler) - an AI development framework.
+
+[![dotai](https://img.shields.io/badge/powered%20by-dotai-blue?style=flat-square&logo=github)](https://github.com/helloprkr/dotai_boiler)
 
 The `.ai` folder contains a comprehensive suite of AI-assisted development tools that enhance code quality, maintain project continuity, and accelerate development workflows:
 
